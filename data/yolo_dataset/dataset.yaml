@@ -1,0 +1,16 @@
+names:
+- sunglass
+- hat
+- jacket
+- shirt
+- pants
+- shorts
+- skirt
+- dress
+- bag
+- shoe
+nc: 10
+path: C:\Users\Chaimae\OneDrive - De Haagse Hogeschool\Documenten\GitHub\datalab3\VisionWear-AI\data\yolo_dataset
+test: images/test
+train: images/train
+val: images/train
